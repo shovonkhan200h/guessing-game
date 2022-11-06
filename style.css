@@ -1,0 +1,26 @@
+.container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    margin: 50px auto;
+    width: 50%;
+    height: 20rem;
+    background: rgba(0, 0, 0, 0.2);
+}
+#myButton{
+    background: rgba(0, 0, 0, 0);
+    transition: 0.3s;
+}
+#myButton:hover{
+    background: rgba(0, 0, 0, 0.2);
+}
+
+p{
+text-align: center;
+}
+
+.lagre-text{
+text-align: center;
+font-size: 2rem;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+background: rgba(0, 0, 0, 0.2);
+}
